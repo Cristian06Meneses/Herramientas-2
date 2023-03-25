@@ -13,3 +13,6 @@ C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\D
 C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.pdb
 C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.genruntimeconfig.cache
 C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\ref\Nacho Opera.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Multiplicacion.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Multiplicacion.pdb
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.csproj.CopyComplete

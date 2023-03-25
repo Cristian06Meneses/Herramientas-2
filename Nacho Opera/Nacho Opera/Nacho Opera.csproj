@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Multiplicacion">
+      <HintPath>..\..\Multiplicacion\Multiplicacion\bin\Debug\net6.0\Multiplicacion.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

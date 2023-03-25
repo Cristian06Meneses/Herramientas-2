@@ -1,4 +1,6 @@
-﻿int num1 = 0;
+﻿using Multiplicacion;
+
+int num1 = 0;
 int num2 = 0;
 int opcion = 0;
 bool prueba = false;
@@ -171,7 +173,7 @@ do
                     }
                 }
 
-                Console.WriteLine("La multiplicacion de esos numeros es: " /*+ multiplicacion(int num1, int num2)*/);
+                Console.WriteLine("La multiplicacion de esos numeros es: " + Multiplicacion.Class1.multiplicacion(num1, num2));
                 opcion = 0;
 
                 break;

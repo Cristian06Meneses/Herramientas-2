@@ -1,0 +1,12 @@
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.csproj.AssemblyReference.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.AssemblyInfoInputs.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.AssemblyInfo.cs
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\bin\Debug\net6.0\Multiplicacion.deps.json
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\bin\Debug\net6.0\Multiplicacion.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\bin\Debug\net6.0\Multiplicacion.pdb
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\refint\Multiplicacion.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\Multiplicacion.pdb
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Multiplicacion\Multiplicacion\obj\Debug\net6.0\ref\Multiplicacion.dll
