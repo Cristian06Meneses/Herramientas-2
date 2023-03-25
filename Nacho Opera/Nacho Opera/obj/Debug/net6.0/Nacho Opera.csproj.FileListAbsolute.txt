@@ -1,0 +1,15 @@
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.exe
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.deps.json
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.runtimeconfig.json
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.pdb
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.csproj.AssemblyReference.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.AssemblyInfoInputs.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.AssemblyInfo.cs
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.csproj.CoreCompileInputs.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\refint\Nacho Opera.dll
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.pdb
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.genruntimeconfig.cache
+C:\Users\gookk\OneDrive\Documentos\Repositorio HP2\Nacho Opera\Nacho Opera\obj\Debug\net6.0\ref\Nacho Opera.dll
