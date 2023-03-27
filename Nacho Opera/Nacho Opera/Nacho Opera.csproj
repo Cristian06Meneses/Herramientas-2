@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="Division">
+      <HintPath>..\..\Division\Division\bin\Debug\net6.0\Division.dll</HintPath>
+    </Reference>
     <Reference Include="Multiplicacion">
       <HintPath>..\..\Multiplicacion\Multiplicacion\bin\Debug\net6.0\Multiplicacion.dll</HintPath>
     </Reference>

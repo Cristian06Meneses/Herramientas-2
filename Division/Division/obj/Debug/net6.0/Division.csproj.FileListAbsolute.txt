@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\git\Division\Division\bin\Debug\net6.0\Division.deps.json
+C:\Users\Usuario\Documents\git\Division\Division\bin\Debug\net6.0\Division.dll
+C:\Users\Usuario\Documents\git\Division\Division\bin\Debug\net6.0\Division.pdb
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.dll
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\refint\Division.dll
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\Division.pdb
+C:\Users\Usuario\Documents\git\Division\Division\obj\Debug\net6.0\ref\Division.dll

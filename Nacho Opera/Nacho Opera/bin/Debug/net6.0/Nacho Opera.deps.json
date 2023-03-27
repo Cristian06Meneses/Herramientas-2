@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "Nacho Opera/1.0.0": {
         "dependencies": {
+          "Division": "1.0.0.0",
           "Multiplicacion": "1.0.0.0"
         },
         "runtime": {
           "Nacho Opera.dll": {}
+        }
+      },
+      "Division/1.0.0.0": {
+        "runtime": {
+          "Division.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Multiplicacion/1.0.0.0": {
@@ -27,6 +36,11 @@
   "libraries": {
     "Nacho Opera/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Division/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

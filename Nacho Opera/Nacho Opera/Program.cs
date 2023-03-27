@@ -1,4 +1,5 @@
 ﻿using Multiplicacion;
+using Division;
 
 int num1 = 0;
 int num2 = 0;
@@ -136,7 +137,7 @@ do
                     }
                 }
 
-                Console.WriteLine("La division de esos numeros es: " /*+ division(int num1, int num2)*/);
+                Console.WriteLine("La division de esos numeros es: " + Division.Class1.division(num1, num2));
                 opcion = 0;
 
                 break;
