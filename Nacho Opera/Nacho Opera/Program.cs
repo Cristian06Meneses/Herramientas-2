@@ -1,5 +1,6 @@
 ﻿using Multiplicacion;
 using Division;
+using sumar;
 
 int num1 = 0;
 int num2 = 0;
@@ -63,7 +64,7 @@ do
                     }
                 }
 
-                Console.WriteLine("La suma de esos numeros es: " /*+ suma(int num1, int num2)*/);
+                Console.WriteLine("La suma de esos numeros es: " +sumar.Class1.suma(num1,num2));
                 opcion = 0;
 
                 break;

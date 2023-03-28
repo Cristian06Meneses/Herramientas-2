@@ -1,6 +1,0 @@
-C:\Users\sebas\OneDrive\Desktop\visual studio\SUMA\SUMA\bin\Debug\SUMA.dll
-C:\Users\sebas\OneDrive\Desktop\visual studio\SUMA\SUMA\bin\Debug\SUMA.pdb
-C:\Users\sebas\OneDrive\Desktop\visual studio\SUMA\SUMA\obj\Debug\SUMA.csproj.AssemblyReference.cache
-C:\Users\sebas\OneDrive\Desktop\visual studio\SUMA\SUMA\obj\Debug\SUMA.csproj.CoreCompileInputs.cache
-C:\Users\sebas\OneDrive\Desktop\visual studio\SUMA\SUMA\obj\Debug\SUMA.dll
-C:\Users\sebas\OneDrive\Desktop\visual studio\SUMA\SUMA\obj\Debug\SUMA.pdb
