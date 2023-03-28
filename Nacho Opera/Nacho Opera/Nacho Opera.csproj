@@ -15,6 +15,9 @@
     <Reference Include="Multiplicacion">
       <HintPath>..\..\Multiplicacion\Multiplicacion\bin\Debug\net6.0\Multiplicacion.dll</HintPath>
     </Reference>
+    <Reference Include="Resta">
+      <HintPath>..\..\Resta\Resta\bin\Debug\net6.0\Resta.dll</HintPath>
+    </Reference>
     <Reference Include="sumar">
       <HintPath>..\..\sumar\sumar\bin\Debug\sumar.dll</HintPath>
     </Reference>

@@ -1,6 +1,7 @@
 ﻿using Multiplicacion;
 using Division;
 using SUMAR;
+using Resta;
 
 int num1 = 0;
 int num2 = 0;
@@ -101,7 +102,7 @@ do
                     }
                 }
 
-                Console.WriteLine("La resta de esos numeros es: " /*+ resta(int num1, int num2)*/);
+                Console.WriteLine("La resta de esos numeros es: " + Resta.Class1.resta(num1, num2));
                 opcion = 0;
 
                 break;
