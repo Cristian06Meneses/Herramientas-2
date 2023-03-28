@@ -1,0 +1,6 @@
+C:\Users\sebas\OneDrive\Desktop\nacho\SUMAR\SUMAR\bin\Debug\SUMAR.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\SUMAR\SUMAR\bin\Debug\SUMAR.pdb
+C:\Users\sebas\OneDrive\Desktop\nacho\SUMAR\SUMAR\obj\Debug\SUMAR.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\nacho\SUMAR\SUMAR\obj\Debug\SUMAR.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\nacho\SUMAR\SUMAR\obj\Debug\SUMAR.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\SUMAR\SUMAR\obj\Debug\SUMAR.pdb

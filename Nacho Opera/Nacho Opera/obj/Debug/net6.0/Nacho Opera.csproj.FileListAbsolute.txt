@@ -58,3 +58,25 @@ C:\Users\sebas\OneDrive\Desktop\visual studio\NACHO OPERA\Nacho Opera\Nacho Oper
 C:\Users\sebas\OneDrive\Desktop\visual studio\NACHO OPERA\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.pdb
 C:\Users\sebas\OneDrive\Desktop\visual studio\NACHO OPERA\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.genruntimeconfig.cache
 C:\Users\sebas\OneDrive\Desktop\visual studio\NACHO OPERA\Nacho Opera\Nacho Opera\obj\Debug\net6.0\ref\Nacho Opera.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.exe
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.deps.json
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.runtimeconfig.json
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Nacho Opera.pdb
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Division.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Multiplicacion.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\sumar.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Division.pdb
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\Multiplicacion.pdb
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\bin\Debug\net6.0\sumar.pdb
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\refint\Nacho Opera.dll
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.pdb
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\Nacho Opera.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Desktop\nacho\Nacho Opera\Nacho Opera\obj\Debug\net6.0\ref\Nacho Opera.dll
