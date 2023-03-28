@@ -9,7 +9,8 @@
       "Nacho Opera/1.0.0": {
         "dependencies": {
           "Division": "1.0.0.0",
-          "Multiplicacion": "1.0.0.0"
+          "Multiplicacion": "1.0.0.0",
+          "Resta": "1.0.0.0"
         },
         "runtime": {
           "Nacho Opera.dll": {}
@@ -30,6 +31,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Resta/1.0.0.0": {
+        "runtime": {
+          "Resta.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -45,6 +54,11 @@
       "sha512": ""
     },
     "Multiplicacion/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resta/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

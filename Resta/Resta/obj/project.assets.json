@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARIANA TAMAYO\\source\\repos\\Resta\\Resta\\Resta.csproj",
+      "projectUniqueName": "C:\\Users\\MARIANA TAMAYO\\source\\repos\\Herramientas\\Resta\\Resta\\Resta.csproj",
       "projectName": "Resta",
-      "projectPath": "C:\\Users\\MARIANA TAMAYO\\source\\repos\\Resta\\Resta\\Resta.csproj",
+      "projectPath": "C:\\Users\\MARIANA TAMAYO\\source\\repos\\Herramientas\\Resta\\Resta\\Resta.csproj",
       "packagesPath": "C:\\Users\\MARIANA TAMAYO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARIANA TAMAYO\\source\\repos\\Resta\\Resta\\obj\\",
+      "outputPath": "C:\\Users\\MARIANA TAMAYO\\source\\repos\\Herramientas\\Resta\\Resta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
