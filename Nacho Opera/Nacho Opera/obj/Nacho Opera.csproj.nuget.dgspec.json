@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho Opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj": {}
+    "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho Opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj": {
+    "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho Opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj",
+        "projectUniqueName": "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj",
         "projectName": "Nacho Opera",
-        "projectPath": "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho Opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj",
+        "projectPath": "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho opera\\Nacho Opera\\Nacho Opera\\Nacho Opera.csproj",
         "packagesPath": "C:\\Users\\gookk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho Opera\\Nacho Opera\\Nacho Opera\\obj\\",
+        "outputPath": "C:\\Users\\gookk\\OneDrive\\Documentos\\Trabajos U\\Visual Studio\\Nacho opera\\Nacho Opera\\Nacho Opera\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
